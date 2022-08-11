@@ -1,0 +1,17 @@
+.nav-menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin: 0;
+  height: 70px;
+  background-color: rgb(98, 23, 128);
+  top: 0;
+}
+a:link,
+a:visited,
+a:active li {
+  text-decoration: none;
+  list-style: none;
+  color: whitesmoke;
+}
