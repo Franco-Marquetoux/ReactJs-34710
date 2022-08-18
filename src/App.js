@@ -2,8 +2,7 @@ import NavBar from "./Components/NavBar/NavBar";
 import Cards from "./Components/Card/Cards";
 import "./Components/Card/Cards.css";
 import "./Components/CartWidget/CartWidget";
-import ItemListContainer from "./Components/ItemListContainer/ItemListContainer";
-import ItemCount from "./Components/ItemCount/ItemCount";
+import ItemListContainer from "./Components/ItemList/ItemListContainer";
 
 function App() {
   return (
